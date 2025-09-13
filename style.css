@@ -1,0 +1,129 @@
+/* Index page */
+
+* {
+    background-color: #EEEEEE;
+    font-family: "Times New Roman", Times, serif;
+}
+
+body {
+    background-color:#8BCCBD;
+    Text-align: center;
+    margin: 100px;
+    padding: 20px;
+    border: solid red;
+}
+h1{
+    font-size: 60px;
+    background-color:#8BCCBD ;
+    box-sizing: border-box;
+    text-align: center;
+}    
+
+u{
+    background-color: #8BCCBD;
+    color:#000000;
+    text-decoration-style: dotted;
+}
+div {
+    background-color: #8BCCBD;
+}
+
+.lasagna {
+    box-sizing: border-box;
+    background-color: red;
+    display: inline-block;
+    margin: 10px 20px;
+    border: 1px solid red;
+    padding: 1px;
+    width: 212px 210px;     
+    
+}
+
+button:hover {
+    color: yellow;
+
+}
+button:active {
+    background-color: palevioletred;
+}
+.egg {
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: red;
+    display: inline-block;
+    margin: 10px 20px;
+    border: 1px solid red;
+    padding: 1px;
+    width: 212px 210px; 
+}
+
+.bean {
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: red;
+    display: inline-block;
+    margin: 10px 20px;
+    border: 1px solid red;
+    padding: 1px;
+    width: 212px 210px; 
+}
+
+.p {
+    background-color: #8BCCBD;
+    font-size: xx-large;
+    text-decoration: dotted;
+    text-decoration-style: solid;
+    text-decoration-color: #000000;
+}
+
+button{
+    font-size: 50px;
+    background-color: #000000;
+    color: #8BCCBD;
+}
+
+/* Lasagna page */
+
+img {
+    border-radius: 30px;
+}
+
+ul {
+    background-color: #8BCCBD;
+    list-style: none;
+}
+
+p {
+    background-color: #8BCCBD;
+    font-size: 30px;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    font-weight: bold;
+}
+
+h4 {
+     background-color: #8BCCBD;
+}
+
+h3 {
+    text-decoration-line: underline;
+    background-color: #8BCCBD;
+}
+
+#link {
+    box-sizing: border-box;
+    padding: 5px;
+    background-color: yellow;
+    display: inline-block;
+    font-size: 50px;
+    border: 2px dashed yellow;
+    color:#000000;
+    border-radius: 20px;
+}
+
+#link:hover {
+    background-color: palevioletred;
+}
+#link:acive {
+    color: #000000;
+}

@@ -1,0 +1,34 @@
+body {
+    background-color:#8BCCBD;
+    Text-align: center;
+    margin: 100px;
+}
+
+.lasagna {
+    box-sizing: border-box;
+    background-color: #C5D15C;
+    display: inline-block;
+    margin: 10px 20px;
+    border: 2px solid red;
+    padding: 5px;
+    width: 220px; 
+    
+}
+
+.egg {
+    display: inline-block;
+}
+
+.bean {
+    display: inline-block;
+}
+
+.p {
+   
+}
+
+button{
+    font-size: 50px;
+    background-color: #000000;
+    color: #8BCCBD;
+}
